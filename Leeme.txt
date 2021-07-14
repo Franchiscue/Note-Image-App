@@ -1,0 +1,12 @@
+Conversión a Webpack de la aplicación Lista-tareas que se encuentra en 
+Desarrollo Aplicaciones Web\HTML-CSS\06-Asincronia\CRUD\Ejercicio01_Unsplash
+
+Copiamos las carpetas y archivos de Lista-Tareas en 07-Webpack
+
+- config
+- src
+- package.json
+- webpack.config.js
+- .gitignore
+
+Luego echamos la carpeta en VisualCode y escribimos en la consola "npm install"

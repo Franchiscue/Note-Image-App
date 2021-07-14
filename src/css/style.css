@@ -1,0 +1,46 @@
+/* body{
+    background-color: #c8c879;
+} */
+
+html{
+    font-family: 'Dosis', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.title{
+    font-family: 'Fredericka the Great', cursive;
+    font-size: 5rem;
+    font-weight: 400;
+}
+
+.writeArea{
+    font-weight: 200;
+    overflow-y: scroll;
+    resize: none;
+}
+
+.searchResult{
+    height: 15rem;
+    background-color: blanchedalmond;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    resize: none;
+}
+
+.imgDiv{
+    width: auto;
+    height: 7rem;
+    border-top-left-radius: 0.9rem;
+    border-top-right-radius: 0.9rem;
+}
+
+.searchedImgs{
+    border: 2px solid black;
+    border-radius: 1rem;
+}
+
+.searchedImgs:hover{
+    box-shadow: 0px 0px 2px 5px #DCFFFE;
+}
+
